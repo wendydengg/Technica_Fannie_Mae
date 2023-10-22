@@ -1,4 +1,7 @@
-# Fannie Mae: Climate Change Sentiment Analysis and Impacts on Housing (2)
+# Climate Change Sentiment Analysis and Impacts on Housing 
+As part of Technica 2023, we performed a sentiment analysis on reddit comments and posts to find topics that are frequently in discusssion using spaCy, n-grams frequency distribution, and graphed it using Plotly.
+
+
 Climate change has a major impact on the housing market, such as increasing insurance rates, making some homes unsustainable due to natural disasters, and financial distress for borrowers.
 
 Given a climate change dataset/reddit post and comment history over the past several years.
